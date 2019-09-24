@@ -2,7 +2,7 @@
 # Deep Learningをやろう！
 
 この記事は、数学やプログラミングの知識のないものの、
-本気で機械学習エンジニアを目指している方向けです。
+機械学習エンジニアを目指している方向けです。
 
 ### Deep Learningとは
 ここに来ている方は、すでにDeep Learningに深い関心があると思います。
@@ -121,7 +121,7 @@ GitHubで他の受講生と議論をすることで切磋琢磨ができたの�
 
 一通り目を通してなんとなく覚えておき、あとは辞書的に使っています。
 
-Pythonって結構奥深いですよ。"<a href="https://www.python.org/dev/peps/pep-0020/">The zen of Python</a>".
+プログラミング言語って結構奥深いですね。"<a href="https://www.python.org/dev/peps/pep-0020/">The zen of Python</a>".
 
 #### <a href="https://www.amazon.co.jp/Python%E3%83%87%E3%83%BC%E3%82%BF%E3%82%B5%E3%82%A4%E3%82%A8%E3%83%B3%E3%82%B9%E3%83%8F%E3%83%B3%E3%83%89%E3%83%96%E3%83%83%E3%82%AF-%E2%80%95Jupyter%E3%80%81NumPy%E3%80%81pandas%E3%80%81Matplotlib%E3%80%81scikit-learn%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%83%87%E3%83%BC%E3%82%BF%E5%88%86%E6%9E%90%E3%80%81%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92-Jake-VanderPlas/dp/4873118417/ref=sr_1_1?s=books&ie=UTF8&qid=1540040812&sr=1-1&keywords=python+%E3%83%87%E3%83%BC%E3%82%BF%E3%82%B5%E3%82%A4%E3%82%A8%E3%83%B3%E3%82%B9%E3%83%8F%E3%83%B3%E3%83%89%E3%83%96%E3%83%83%E3%82%AF">Pythonデータサイエンスハンドブック
 <b>期間：2018/9　価格：4,536 円</b>
